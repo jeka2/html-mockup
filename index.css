@@ -1,4 +1,13 @@
+.top-bar {
+  position: absolute;
+  padding: 0 320px;
+}
+
 .top-bar li {
   display: inline-block;
   padding: 20px;
+}
+
+.hero img {
+  width: 100%;
 }
